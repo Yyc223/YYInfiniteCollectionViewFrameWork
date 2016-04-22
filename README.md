@@ -1,0 +1,2 @@
+# YYInfiniteCollectionViewFrameWork
+UICollectionView图片轮播器的循环利用Cell框架.
